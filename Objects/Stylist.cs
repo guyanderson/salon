@@ -58,7 +58,7 @@ namespace Stylist_objects
       }
 
   return allStylist;
-}
+    }
 //============================================
     public static void DeleteAll()
     {

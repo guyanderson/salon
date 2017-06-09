@@ -7,7 +7,7 @@ using Stylist_objects;
 
 namespace StylistTest_Test
 {
- [Collection("hair_salon")]
+  [Collection("SalonTest")]
   public class StylistTest : IDisposable
   {
     public StylistTest()
